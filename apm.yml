@@ -1,0 +1,8 @@
+name: model-nerf-check
+version: 0.1.0
+description: Check API output quality with repeated pelican animation trials and visual evidence.
+targets:
+  - codex
+  - claude
+dependencies:
+  apm: []

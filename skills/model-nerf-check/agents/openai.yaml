@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Nerf Check"
+  short_description: "Compare endpoint quality using visual evidence"
+  default_prompt: "Use $model-nerf-check to check my API endpoint with the GetPlus pelican test and compare it with a trusted baseline."
