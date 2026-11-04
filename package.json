@@ -1,0 +1,9 @@
+{
+  "name": "model-nerf-check",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Evidence-based endpoint quality checks using the GetPlus pelican benchmark",
+  "type": "module",
+  "engines": { "node": ">=22.20" },
+  "scripts": { "test": "node --test", "check": "node skills/model-nerf-check/scripts/check.mjs" }
+}
